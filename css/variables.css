@@ -1,0 +1,16 @@
+:root {
+  --ff-common: monospace;
+
+  --color-matrix-cell-m-1: hsla(0,       50%,   50%, 0.5);
+  --color-matrix-cell-m-2: hsla(180,     80%,   50%, 0.3);
+  --color-matrix-cell-m-3: hsla(150,     50%,   50%, 0.7);
+  --color-matrix-cell-m-4: hsla(60,      40%,   50%, 0.5);
+  --color-matrix-cell-m-5: hsla(300,     50%,   50%, 0.3);
+  --color-matrix-cell-m-6: hsla(120,     90%,   50%, 0.7);
+  --color-matrix-cell-m-7: hsla(30,      50%,   50%, 0.5);
+  --color-matrix-cell-m-8: hsla(10,      70%,   50%, 0.3);
+  --color-matrix-cell-m-9: hsla(210,     30%,   50%, 0.7);
+  --color-bg:              hsl(183.66deg 28.96% 93.17%);
+
+  --cell-size: 1rem;
+}
