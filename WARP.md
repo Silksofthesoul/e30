@@ -31,7 +31,7 @@ There is no build, lint, or test tooling configured in this repo. Development wo
 
 ### Open the app in a browser
 
-From this directory (`/var/www/silksofthesoul-ru/src/projects/e30`):
+From the repository root:
 
 - Using a simple HTTP server (Python 3 installed by default on most systems):
   - `python3 -m http.server 8000`
